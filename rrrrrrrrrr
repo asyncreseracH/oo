@@ -1,0 +1,38 @@
+<table>
+  <caption>Comparison of Smartphones</caption>
+  <tr>
+    <th></th>
+    <th>Model A</th>
+    <th>Model B</th>
+    <th>Model C</th>
+  </tr>
+  <tr>
+    <td>Price (USD)</td>
+    <td>$500</td>
+    <td>$600</td>
+    <td>$700</td>
+  </tr>
+  <tr>
+    <td>RAM (GB)</td>
+    <td>4</td>
+    <td>6</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td colspan="3">Additional Features</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>5MP Camera, Water Resistant</td>
+    <td>12MP Camera, Wireless Charging</td>
+    <td>16MP Camera, Fingerprint Sensor</td>
+  </tr>
+</table>
+
+<ol type="1">
+  <li>The price range of the smartphones varies from $500 to $700.</li>
+  <li>Model C has the highest RAM capacity at 8GB.</li>
+  <li>The majority of the smartphones have impressive camera capabilities, with Model B having a high-resolution camera and wireless charging.</li>
+</ol>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ5xPQp4MgEilK4W7QdZ6xW9lFZ_jp5R_kw&usqp=CAU" alt="Young woman typing on her smartphone">
